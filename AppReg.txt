@@ -1,0 +1,4 @@
+"AadClientId": "5b440ca1-77eb-4584-ab90-f3d52c8ce2be",
+"AadSecret": "4.d8Q~j1cwOoTEJBnAmYB1fJi_vNqW-L5lNfgamB",
+"AadTenantDomain": "sierracedarinc.onmicrosoft.com",
+"AadTenantId": "0f1fa860-6a95-4198-b969-fe5e480b6a85",
